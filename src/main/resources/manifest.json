@@ -1,0 +1,26 @@
+{
+    "Group": "org.dimdev",
+    "Name": "DimensionalDoors",
+    "Version": "1.0.0",
+    "Description": "",
+    "Authors": [
+        {
+            "Name": "Waterpicker"
+        }
+    ],
+    "Main": "org.dimdev.dimdoors.DimensionalDoorsPlugin",
+    "LoadOrder": "POSTWORLD",
+    "IncludesAssetPack": true,
+    "Website": "",
+    "ServerVersion": ">=0.5.6",
+    "Dependencies": {
+        "Hytale:AssetModule": "*"
+    },
+    "OptionalDependencies": {
+        
+    },
+    "DisabledByDefault": false,
+    "UpdateChecker": {
+        "CurseForge": ""
+    }
+}

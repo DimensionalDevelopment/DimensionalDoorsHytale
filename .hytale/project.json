@@ -1,0 +1,10 @@
+{
+  "groupId": "org.dimdev",
+  "artifactId": "dimensionaldoors",
+  "modName": "DimensionalDoors",
+  "version": "1.0.0",
+  "buildSystem": "Gradle",
+  "language": "Kotlin",
+  "jarPath": "build/libs/dimensionaldoors-1.0.0.jar",
+  "buildTask": "shadowJar"
+}
