@@ -15,9 +15,9 @@ pom.xml.versionsBackup
 
 # Hytale
 libs/HytaleServer.jar
-server/mods/
-server/logs/
-server/world/
-server/
+/server/mods/
+/server/logs/
+/server/world/
+/server/
 
 .idea/
