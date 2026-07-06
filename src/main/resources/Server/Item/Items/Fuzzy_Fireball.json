@@ -1,0 +1,11 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.dimensionaldoors.fuzzy_fireball.name"
+  },
+  "ItemLevel": 10,
+  "MaxStack": 100,
+  "Icon": "Icons/Items/Fuzzy_Fireball.png",
+  "Categories": [
+    "Blocks.Rocks"
+  ]
+}

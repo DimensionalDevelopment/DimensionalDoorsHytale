@@ -1,0 +1,11 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.dimensionaldoors.liminal_lint.name"
+  },
+  "ItemLevel": 10,
+  "MaxStack": 100,
+  "Icon": "Icons/Items/Liminal_Lint.png",
+  "Categories": [
+    "Blocks.Rocks"
+  ]
+}

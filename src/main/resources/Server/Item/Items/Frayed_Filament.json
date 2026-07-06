@@ -1,0 +1,11 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.dimensionaldoors.frayed_filament.name"
+  },
+  "ItemLevel": 10,
+  "MaxStack": 100,
+  "Icon": "Icons/Items/Frayed_Filament.png",
+  "Categories": [
+    "Blocks.Rocks"
+  ]
+}

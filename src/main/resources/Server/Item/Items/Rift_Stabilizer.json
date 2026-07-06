@@ -1,0 +1,11 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.dimensionaldoors.rift_stabilizer.name"
+  },
+  "ItemLevel": 10,
+  "MaxStack": 100,
+  "Icon": "Icons/Items/Rift_Stabilizer.png",
+  "Categories": [
+    "Blocks.Rocks"
+  ]
+}

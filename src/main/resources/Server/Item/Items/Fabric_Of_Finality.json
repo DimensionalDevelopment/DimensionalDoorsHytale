@@ -1,0 +1,11 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.dimensionaldoors.fabric_of_finality.name"
+  },
+  "ItemLevel": 10,
+  "MaxStack": 100,
+  "Icon": "Icons/Items/Fabric_Of_Finality.png",
+  "Categories": [
+    "Blocks.Rocks"
+  ]
+}

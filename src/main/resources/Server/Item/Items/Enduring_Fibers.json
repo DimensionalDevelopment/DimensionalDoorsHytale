@@ -1,0 +1,11 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.dimensionaldoors.enduring_fibers.name"
+  },
+  "ItemLevel": 10,
+  "MaxStack": 100,
+  "Icon": "Icons/Items/Enduring_Fibers.png",
+  "Categories": [
+    "Blocks.Rocks"
+  ]
+}

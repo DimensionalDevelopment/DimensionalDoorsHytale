@@ -1,0 +1,11 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.dimensionaldoors.rift_pearl.name"
+  },
+  "ItemLevel": 10,
+  "MaxStack": 100,
+  "Icon": "Icons/Items/Rift_Pearl.png",
+  "Categories": [
+    "Blocks.Rocks"
+  ]
+}

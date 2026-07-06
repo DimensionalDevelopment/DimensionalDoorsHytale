@@ -1,0 +1,11 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.dimensionaldoors.stable_fabric.name"
+  },
+  "ItemLevel": 10,
+  "MaxStack": 100,
+  "Icon": "Icons/Items/Stable_Fabric.png",
+  "Categories": [
+    "Blocks.Rocks"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.dimensionaldoors.amalgam_lump.name"
+  },
+  "ItemLevel": 10,
+  "MaxStack": 100,
+  "Icon": "Icons/Items/Amalgam_Lump.png",
+  "Categories": [
+    "Blocks.Rocks"
+  ]
+}

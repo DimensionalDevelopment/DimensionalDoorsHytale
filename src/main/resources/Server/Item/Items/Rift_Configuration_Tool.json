@@ -1,0 +1,11 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.dimensionaldoors.rift_configuration_tool.name"
+  },
+  "ItemLevel": 10,
+  "MaxStack": 100,
+  "Icon": "Icons/Items/Rift_Configuration_Tool.png",
+  "Categories": [
+    "Blocks.Rocks"
+  ]
+}
